@@ -15,19 +15,11 @@ Command : pip install -r requirements.txt
 
 4. Deactivate the environment
 
-Use Command pip install -r requirements.txt
+5. Run the command python app.py
+
+6. Copy the localhost address provided to run the program
 
 
-Temp:
-echo "# temprepo" >> README.md
 
-git init
 
-git add README.md
-
-git commit -m "first commit"
-
-git remote add origin https://github.com/mayank2gud/temprepo.git
-
-git push -u origin master
 

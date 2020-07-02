@@ -13,7 +13,8 @@ NOTE: Make sure you have virtualenv package installed. If not, then type pip ins
 3. Install the requirements.txt contents
 Command : pip install -r requirements.txt
 
-4. Deactivate the environment
+4. Deactivate the environment.
+Command : deactivate
 
 5. Run the command python app.py
 
